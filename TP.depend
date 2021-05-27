@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1543535717 source:c:\users\home\desktop\prog\c\tp\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1544303637 source:d:\mes programmes\c\tpvrai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+

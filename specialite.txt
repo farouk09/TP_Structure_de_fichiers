@@ -1,0 +1,39 @@
+architecture
+artisanat
+banque assurance
+communication
+comptabilite
+gestion
+danse
+droit
+economie
+commerce
+environnement
+geographie
+urbanisme
+restauration
+histoire
+informatique
+immobilier
+journalisme
+langues
+lettres
+mathematiques
+medecine
+mode
+multimedia web
+publicite
+paramedical
+physique 
+chimie
+psychologie
+philosophie
+pharmacie
+ressources humaines
+sport
+sociologie
+sciences humaines
+sciences politiques
+technologies industrielles
+tourisme
+veterinaire.
